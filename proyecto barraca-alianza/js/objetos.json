@@ -1,0 +1,48 @@
+[  
+    { "id": 1,
+      "nombre": "ventana de aluminio 1x1",
+      "precio": "5400",
+      "imagen":"../imagenes/img productos/aluminio.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "chapa de zinc",
+      "precio": "550",
+      "imagen":"../imagenes/img productos/chapa.jpg"
+    },
+    {
+      "id": 3, 
+      "nombre": "Varillas tratadas 8 pulgadas",
+      "precio": "120",
+      "imagen": "../imagenes/img productos/varilla.jpeg"
+    },
+    {
+      "id": 4,
+     "nombre": "Puerta interior de madera",
+      "precio": "4800",
+      "imagen":"../imagenes/img productos/puertaint.jpg"
+     },
+
+    { 
+      "id": 5,
+      "nombre": "Caños de pvc 110mm x 3mts",
+      "precio": "750",
+      "imagen": "../imagenes/img productos/cañopvc.jpg"
+    },
+    { 
+      "id": 6,
+      "nombre": "Ladrillos",
+      "precio": "40",
+      "imagen":"../imagenes/img productos/ladrillo.jpg"
+    },
+    {
+      "id": 7,
+    "nombre": "Malla electrosoldada galvanizada 1.80 x 20mts",
+    "precio": "4000",
+    "imagen":"../imagenes/img productos/mallaelectro.jfif"
+
+    }
+
+]
+
+
